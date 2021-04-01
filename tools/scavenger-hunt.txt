@@ -1,0 +1,9 @@
+1. 192.168.70.128
+2. the 'hostname' command
+3. 'host' followed by the hostname (ex: google.com)
+4. curl -F command on the file to a server 
+5. using netcat (ex: nc -z 192.168.10.1 1-1024)  
+6. using nmap
+7. wget -r (wget -r google.com)
+8. curl -I (curl -I http://example.com/) 
+9. curl --include (includes the response-headers)
