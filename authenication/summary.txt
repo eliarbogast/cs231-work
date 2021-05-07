@@ -2,5 +2,16 @@ Part 1
 Passwords cracked: 1162
 Total time: 0.52s
 Number of hashes computed: 267751
-Passwords cracked per number of hashes computed: 
-Time per password cracked: 
+Passwords cracked per number of hashes computed: 0.00433
+Time per password cracked: 0.000447
+
+Part 2
+Passwords cracked: 1133
+Total time: 1106.94s
+Number of hashes computed: 622788826
+Passwords cracked per number of hashes computed: 0.000001819
+Time per password cracked: 0.9769
+
+Factor by which your time per password lengthened, and why:
+2185.459 because we have 3 orders of magnitude more hashes to compute due to the presence of the salt.
+This was only cracking the passwords with one word, cracking the passwords with two words would've taken longer than the time we have availabe before the assignment due date.  
