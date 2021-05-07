@@ -1,0 +1,6 @@
+Part 1
+Passwords cracked: 1162
+Total time: 0.52s
+Number of hashes computed: 267751
+Passwords cracked per number of hashes computed: 
+Time per password cracked: 
