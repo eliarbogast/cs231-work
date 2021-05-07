@@ -1,3 +1,4 @@
+Eli Arbogast and Nacho Rodriguez-Cortes
 Part 1
 Passwords cracked: 1162
 Total time: 0.52s
